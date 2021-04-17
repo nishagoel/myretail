@@ -1,5 +1,5 @@
 PreRequisites
-1. python vesion 3.6 or hugher installed in the system
+1. python vesion 3.6 or higher installed in the system
 2. mongo db is up and running in system
 3. Django==3.0.5 installed 
 
