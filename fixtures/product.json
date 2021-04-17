@@ -1,0 +1,106 @@
+[
+  {
+    "model": "product.product",
+    "pk": 1,
+    "fields": {
+      "price": 1000,
+      "currency_code": "INR"
+    }
+  },
+  {
+    "model": "product.product",
+    "pk": 2,
+    "fields": {
+      "price": 20000,
+      "currency_code": "INR"
+    }
+  },
+  {
+    "model": "product.product",
+    "pk": 3,
+    "fields": {
+      "price": 1500,
+      "currency_code": "INR"
+    }
+  },
+  {
+    "model": "product.product",
+    "pk": 13860428,
+    "fields": {
+      "price": 890,
+      "currency_code": "INR"
+    }
+  },
+  {
+    "model": "product.product",
+    "pk": 54456119,
+    "fields": {
+      "price": 34235,
+      "currency_code": "INR"
+    }
+  },
+  {
+    "model": "product.product",
+    "pk": 13264003,
+    "fields": {
+      "price": 6574,
+      "currency_code": "INR"
+    }
+  },
+  {
+    "model": "product.product",
+    "pk": 12954218,
+    "fields": {
+      "price": 6548,
+      "currency_code": "INR"
+    }
+  },
+  {
+    "model": "product.product",
+    "pk": 129542453,
+    "fields": {
+      "price": 900,
+      "currency_code": "INR"
+    }
+  },
+  {
+    "model": "product.product",
+    "pk": 676724,
+    "fields": {
+      "price": 7890,
+      "currency_code": "INR"
+    }
+  },
+  {
+    "model": "product.product",
+    "pk": 3242423,
+    "fields": {
+      "price": 68910,
+      "currency_code": "INR"
+    }
+  },
+  {
+    "model": "product.product",
+    "pk": 100034,
+    "fields": {
+      "price": 71090,
+      "currency_code": "INR"
+    }
+  },
+  {
+    "model": "product.product",
+    "pk": 23423423,
+    "fields": {
+      "price": 89012,
+      "currency_code": "INR"
+    }
+  },
+  {
+    "model": "product.product",
+    "pk": 23432,
+    "fields": {
+      "price": 1000,
+      "currency_code": "INR"
+    }
+  }
+]

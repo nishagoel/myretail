@@ -1,0 +1,59 @@
+[
+  {
+    "model": "redsky.productdetails",
+    "pk": 1,
+    "fields": {
+      "product_name": "screen",
+      "product_id":1
+    }
+  },  {
+    "model": "redsky.productdetails",
+    "pk": 2,
+    "fields": {
+      "product_name": "The Big Lebowski (Blu-ray) (Widescreen)",
+      "product_id":2
+    }
+  },  {
+    "model": "redsky.productdetails",
+    "pk": 3,
+    "fields": {
+      "product_name": "speaker",
+      "product_id":3
+    }
+  },  {
+    "model": "redsky.productdetails",
+    "pk": 4,
+    "fields": {
+      "product_name": "mic",
+      "product_id":13860428
+    }
+  },  {
+    "model": "redsky.productdetails",
+    "pk": 5,
+    "fields": {
+      "product_name": "pump",
+      "product_id":54456119
+    }
+  },  {
+    "model": "redsky.productdetails",
+    "pk": 6,
+    "fields": {
+      "product_name": "handle",
+      "product_id":13264003
+    }
+  },  {
+    "model": "redsky.productdetails",
+    "pk": 7,
+    "fields": {
+      "product_name": "cover",
+      "product_id":12954218
+    }
+  },  {
+    "model": "redsky.productdetails",
+    "pk": 8,
+    "fields": {
+      "product_name": "panel",
+      "product_id":563735
+    }
+  }
+]
